@@ -13,3 +13,6 @@ Made us of the MVC Architecture as well as Webpack for bundling everything and B
 - JS(ES6+)
 - Webpack
 - Babel
+
+### Link
+https://krishvora.github.io/Forkify/dist/
