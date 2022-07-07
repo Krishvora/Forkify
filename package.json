@@ -12,12 +12,12 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2",
-    "babel-polyfill": "^6.26.0",
     "uniqid": "^5.4.0",
     "webpack": "^5.73.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
+    "babel-polyfill": "^6.26.0",
     "babel-loader": "^8.2.5",
     "babel-preset-env": "^1.7.0",
     "html-webpack-plugin": "^5.5.0",
