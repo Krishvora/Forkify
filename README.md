@@ -15,6 +15,6 @@ Made us of the MVC Architecture as well as Webpack for bundling everything and B
 - Babel
 
 ### Link
-https://krishvora.github.io/Forkify/dist/
+https://forkify-4ae16.web.app/
 
 <img width="1553" alt="Screenshot 2020-04-06 at 12 22 59 PM" src="https://user-images.githubusercontent.com/43543486/78530508-64d1e880-7801-11ea-883b-34e7091cbf36.png">
