@@ -13,7 +13,7 @@
   "dependencies": {
     "axios": "^0.27.2",
     "uniqid": "^5.4.0",
-    "webpack": "^5.73.0"
+    "webpack": "^5.76.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
